@@ -29,7 +29,7 @@ This project aims to detect four types of eye conditions using an image classifi
   - Normal: 79.70%
 
 ## Dataset
-The dataset used for training and testing consists of labeled images for each of the four categories. Data visualization and class-level accuracy metrics are provided in the `visualizations` folder.
+The dataset used for training and testing consists of labeled images for each of the four categories. Data visualization and class-level accuracy metrics are provided in the `https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification`.
 
 ## Results
 The results of the model include accuracy metrics for each class:
@@ -39,7 +39,7 @@ The results of the model include accuracy metrics for each class:
 - **Normal**: 79.70%
 
 ## Website
-A Flask-based web application is integrated with the trained model. Users can upload an image of an eye, and the model will predict the condition. The web app is located in the `webapp` directory.
+A Flask-based web application is integrated with the trained model. Users can upload an image of an eye, and the model will predict the condition. The web app is located in the `app.py` file.
 
 ## Installation
 To set up the project locally:
