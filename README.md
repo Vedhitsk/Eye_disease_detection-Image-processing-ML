@@ -9,8 +9,7 @@ This repository contains an image detection model for testing eye diseases, incl
 - [Results](#results)
 - [Website](#website)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+
 
 ## Overview
 This project aims to detect four types of eye conditions using an image classification model:
