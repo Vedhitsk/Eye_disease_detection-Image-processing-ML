@@ -19,7 +19,7 @@ This project aims to detect four types of eye conditions using an image classifi
 4. Normal
 
 ## Model Details
-- **Model/Frameworks Used**: BERT, TensorFlow
+- **Model/Frameworks Used**: , TensorFlow
 - **Model Training**: The model was trained on a dataset of labeled eye disease images.
 - **Performance Metrics**:
   - Cataract: 93.50%
